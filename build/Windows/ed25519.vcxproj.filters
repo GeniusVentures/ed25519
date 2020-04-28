@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\MyWorkByDaily\20200401_GeniusBlockchain\Work\SuperGeniusWork\ed25519\ed25519.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\MyWorkByDaily\20200401_GeniusBlockchain\Work\SuperGeniusWork\ed25519\ed25519-donna-portable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MyWorkByDaily\20200401_GeniusBlockchain\Work\SuperGeniusWork\ed25519\ed25519-hash-custom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MyWorkByDaily\20200401_GeniusBlockchain\Work\SuperGeniusWork\ed25519\ed25519-randombytes-custom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MyWorkByDaily\20200401_GeniusBlockchain\Work\SuperGeniusWork\ed25519\ed25519.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\MyWorkByDaily\20200401_GeniusBlockchain\Work\SuperGeniusWork\ed25519\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{51459E10-E140-3396-8CA5-4F781813EC69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F7C437F2-D807-32AC-88E1-A806A89EEE18}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
